@@ -1,10 +1,10 @@
-## 🎯 Goal
+# 🎯 Goal
 
-Understand:
+By the end of this section, you will understand:
 
 - What is Python?
 - What is Django?
-- How the Web works?
+- How does the Web work?
 
 ---
 
@@ -15,70 +15,43 @@ We use it to tell the computer what to do.
 
 ```python
 print("Hello, world!")
-
-
-# 🎯 Goal
-
-Understand:
-
-What is Python?
-
-What is Django?
-
-How the web works
-
----
-
-## 🧠 What is Python?
-
-Python is a programming language.  
-We use it to tell the computer what to do.
-
-```python
-print("Hello, world!")
+```
 
 Python is:
 
-Beginner-friendly
+- Beginner-friendly
+- Powerful
+- Used in web, AI, data science, and automation
 
-Powerful
+---
 
-Used in web, AI, data science, automation
-
-🌐 What is Django?
+## 🌐 What is Django?
 
 Django is a web framework written in Python.
 
 It helps us:
 
-Build websites faster
-
-Connect to databases
-
-Create admin panels automatically
+- Build websites quickly
+- Connect to databases
+- Create admin panels automatically
 
 Django handles:
 
-URLs
+- URLs
+- Databases
+- Backend logic
+- Templates (HTML rendering)
 
-Database
+---
 
-Backend logic
+## 🌍 How Does the Web Work?
 
-Templates (HTML rendering)
+A simple explanation:
 
-🌍 How Does the Web Work?
+1. You type a URL in your browser
+2. The browser sends a request to a server
+3. The server processes the request
+4. The server sends a response (an HTML page)
+5. The browser displays the page
 
-Simple explanation:
-
-You type a URL in browser
-
-Browser sends request to server
-
-Server processes it
-
-Server sends response (HTML page)
-
-Browser displays the page
-
-Django = the server logic in the middle.
+Django = the server logic in the middle!
